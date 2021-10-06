@@ -10,9 +10,7 @@ RedSec is completely safe and user friendly. We help keep for computer safe from
 
 ### How does RedSec keep your device safe?
  
-Markup :  _Emphasized text_ or *Emphasized text*
-
-Our company works to secure the system of our clients by running penetration tests. These penetration tests help us identify and root out any viruses that may 
+Markup :  _Emphasized text_ or *Emphasized text*Our company works to secure the system of our clients by running penetration tests. These penetration tests help us identify and root out any viruses that may 
 be in the customers system. 
 
 
