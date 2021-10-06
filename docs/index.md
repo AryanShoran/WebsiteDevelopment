@@ -5,7 +5,8 @@ RedSec is one of the leading cybersecurity company across the world. Currently, 
 RedSec is completely safe and user friendly. We help keep for computer safe from malicious viruses and corruption.
 
 
-![index](https://user-images.githubusercontent.com/85941318/136250098-935f7122-5f97-4801-8426-deee475309e1.jpg)
+![index](https://user-images.githubusercontent.com/85941318/136250098-935f7122-5f97-4801-8426-deee475309e1.jpg)![penetration testing](https://user-images.githubusercontent.com/85941318/136253722-4ad5c609-4d60-4865-afca-7387d996e6d3.jpg)
+
 
 ### How does RedSec keep your device safe?
  
@@ -23,6 +24,7 @@ The results of the penetration test are then compiled into a report detailing:
     
 This information is analyzed by security personnel to help configure an enterprise’s WAF settings and other application security solutions to patch vulnerabilities and protect against future attacks.
 
+![penetration testing](https://user-images.githubusercontent.com/85941318/136253722-4ad5c609-4d60-4865-afca-7387d996e6d3.jpg)
 
 
 
