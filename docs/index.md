@@ -17,8 +17,14 @@ be in the customers system.
 This stage uses web application attacks, such as cross-site scripting, SQL injection and backdoors, to uncover a target's vulnerabilities. Testers then try and exploit these vulnerabilities, typically by escalating privileges, stealing data, intercepting traffic, etc., to understand the damage they can cause. This also help us find how a particular application will respond to various intrusion attempts.
 
 The results of the penetration test are then compiled into a report detailing:
+ 
+-
 
-Markup:*bullet list
+ Markup : - Bullet list
+              - Nested bullet
+                  - Sub-nested bullet etc
+          - Bullet list item 2 
+
     Specific vulnerabilities that were exploited
     Sensitive data that was accessed
     The amount of time the pen tester was able to remain in the system undetected
