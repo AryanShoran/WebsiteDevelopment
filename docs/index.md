@@ -5,7 +5,7 @@ RedSec is one of the leading cybersecurity company across the world. Currently, 
 RedSec is completely safe and user friendly. We help keep for computer safe from malicious viruses and corruption.
 
 
-### How does RedSec keep your device safe?(_Italic_)
+### How does RedSec keep your device safe?
  
 
 Our company works to secure the system of our clients by running penetration tests. These penetration tests help us identify and root out any viruses that may 
@@ -14,7 +14,7 @@ be in the customers system.
 Syntax highlighted code block
 
 
-[Link](url) and ![Image](src)
+![index](https://user-images.githubusercontent.com/85941318/136250098-935f7122-5f97-4801-8426-deee475309e1.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
