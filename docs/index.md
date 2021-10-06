@@ -5,23 +5,13 @@ RedSec is one of the leading cybersecurity company across the world. Currently, 
 RedSec is completely safe and user friendly. We help keep for computer safe from malicious viruses and corruption.
 
 
-### Markdown
+### How does RedSec keep your device safe?
+**Bold** and _Italic_ and `Code` text
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Our company works to secure the system of our clients by running penetration tests. These penetration tests help us identify and root out any viruses that may 
+be in the customers system.
 ```markdown
 Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
