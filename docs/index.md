@@ -20,12 +20,13 @@ The results of the penetration test are then compiled into a report detailing:
     Specific vulnerabilities that were exploited
     Sensitive data that was accessed
     The amount of time the pen tester was able to remain in the system undetected
+    
+This information is analyzed by security personnel to help configure an enterprise’s WAF settings and other application security solutions to patch vulnerabilities and protect against future attacks.
 
 
 
 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [Our Penetration Testing Site](https://www.guru99.com/learn-penetration-testing.html).
 
 ### Jekyll Themes
 
