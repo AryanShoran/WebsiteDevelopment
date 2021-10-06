@@ -10,8 +10,6 @@ RedSec is completely safe and user friendly. We help keep for computer safe from
 
 Our company works to secure the system of our clients by running penetration tests. These penetration tests help us identify and root out any viruses that may 
 be in the customers system.
-```markdown
-Syntax highlighted code block
 
 
 ![index](https://user-images.githubusercontent.com/85941318/136250098-935f7122-5f97-4801-8426-deee475309e1.jpg)
