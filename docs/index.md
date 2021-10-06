@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## RedSec: Your Cybersecurity Company
 
 You can use the [editor on GitHub](https://github.com/AryanShoran/WebsiteDevelopment/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
