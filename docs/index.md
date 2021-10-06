@@ -33,9 +33,15 @@ This information is analyzed by security personnel to help configure an enterpri
 
 For more details see [Our Penetration Testing Site](https://www.guru99.com/learn-penetration-testing.html).
 
-### Jekyll Themes
+### What are our schemes?
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AryanShoran/WebsiteDevelopment/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+1. RedSec has 3 different and affordable plans:
+   1. 1 Month plan: 1000 Rupees 
+   2. 6 Month plan: 5000 Rupees
+   3. 1 Year plan: 10000 Rupees
+
+Customers can avail a 1 month free trial as well if they own Netflix.
+
 
 ### Support or Contact
 
