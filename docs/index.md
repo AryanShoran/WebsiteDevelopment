@@ -25,6 +25,7 @@ This stage uses web application attacks, such as cross-site scripting, SQL injec
 
  Markup : - Bullet list
               - Nested bullet
+              - Nested bullet
                   - Sub-nested bullet etc
           - Bullet list item 2 
 
