@@ -5,7 +5,7 @@ RedSec is one of the leading cybersecurity company across the world. Currently, 
 RedSec is completely safe and user friendly. We help keep for computer safe from malicious viruses and corruption.
 
 
-_Italic_### How does RedSec keep your device safe?
+### How does RedSec keep your device safe?(_Italic_)
  
 
 Our company works to secure the system of our clients by running penetration tests. These penetration tests help us identify and root out any viruses that may 
