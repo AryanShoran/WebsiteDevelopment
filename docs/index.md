@@ -19,7 +19,7 @@ This stage uses web application attacks, such as cross-site scripting, SQL injec
 
 -The results of the penetration test are then compiled into a report detailing:
 
-   -Specific vulnerabilities that were exploited
+   - Specific vulnerabilities that were exploited
    - Sensitive data that was accessed
    - The amount of time the pen tester was able to remain in the system undetected
 
