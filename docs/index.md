@@ -23,15 +23,7 @@ This stage uses web application attacks, such as cross-site scripting, SQL injec
    - Sensitive data that was accessed
    - The amount of time the pen tester was able to remain in the system undetected
 
- Markup : - Bullet list
-              - Nested bullet
-              - Nested bullet
-                  - Sub-nested bullet etc
-          - Bullet list item 2 
 
-    Specific vulnerabilities that were exploited
-    Sensitive data that was accessed
-    The amount of time the pen tester was able to remain in the system undetected
     
 This information is analyzed by security personnel to help configure an enterprise’s WAF settings and other application security solutions to patch vulnerabilities and protect against future attacks.
 
