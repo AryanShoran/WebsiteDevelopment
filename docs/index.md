@@ -1,8 +1,9 @@
 ## RedSec : Your Cybersecurity Company
 
-You can use the [editor on GitHub](https://github.com/AryanShoran/WebsiteDevelopment/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+RedSec is one of the leading cybersecurity company across the world. Currently, over 2 million people using RedSec. We value your privacy and feedback.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+RedSec is completely safe and user friendly. We help keep for computer safe from malicious viruses and corruption.
+
 
 ### Markdown
 
