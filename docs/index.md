@@ -36,9 +36,9 @@ For more details see [Our Penetration Testing Site](https://www.guru99.com/learn
 ### What are our schemes?
 
 1. RedSec has 3 different and affordable plans:
-   1. 1 Month plan: 1000 Rupees 
-   2. 6 Month plan: 5000 Rupees
-   3. 1 Year plan: 10000 Rupees
+   1. 1 Month plan: 1,000 Rupees 
+   2. 6 Month plan: 5,000 Rupees
+   3. 1 Year plan: 10,000 Rupees
 
 Customers can avail a 1 month free trial as well if they own Netflix.
 
