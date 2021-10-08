@@ -1,8 +1,11 @@
 ## RedSec : Your Cybersecurity Company
+Due to current pandemic, students and workers all over the world have had to switch to online mode of work and study. Many people are new to technology and are vunerable to cyber attacks like phishing, hacking etc. Thus cybersecurity is of vital importance in the current world.  
 
 RedSec is one of the leading cybersecurity company across the world. Currently, over 2 million people using RedSec. We value your privacy and feedback.
 
 RedSec is completely safe and user friendly. We help keep for computer safe from malicious viruses and corruption.
+
+To see our article on the importance of cybersecurity click [here.](https://www.upguard.com/blog/cybersecurity-important)
 
 
 ![USD-Cyber-Cybersecurity-vs-Information-Security-vs-Network-Security-](https://user-images.githubusercontent.com/85941318/136254045-43c950a5-eaa9-4dcf-84ce-5f4d81315e91.jpg)
